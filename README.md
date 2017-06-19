@@ -1,0 +1,2 @@
+# CandlestickShadowLines
+ローソク足の髭の長さ表示インジケーター
